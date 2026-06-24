@@ -1,7 +1,8 @@
 <div align="center">
 
 <!-- Wave animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F472B6&height=150&section=header&text=Futura%20Desenvolvedora%20FullStack%20💜&fontSize=28&fontColor=ffffff&fontAlignY=75&animation=fadeIn" width="100%"/>
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F472B6&center=true&vCenter=true&random=false&width=600&lines=Futura+Desenvolvedora+FullStack+%F0%9F%A9%B7)](https://git.io/typing-svg)
 
 <br/>
 
