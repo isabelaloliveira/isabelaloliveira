@@ -2,7 +2,7 @@
 
 <!-- Wave animation -->
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F472B6&center=true&vCenter=true&random=false&width=600&lines=Futura+Desenvolvedora+FullStack+%F0%9F%A9%B7)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F472B6&center=true&vCenter=true&random=false&width=600&lines=Futura+Desenvolvedora+FullStack)](https://git.io/typing-svg)
 
 <br/>
 
