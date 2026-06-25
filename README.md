@@ -14,7 +14,7 @@
 
 ## 👩🏻‍💻 Sobre mim
 
-Me chamo Isabela, tenho 21 anos e sou apaixonada por inovar usando a tecnologia. Atualmente, curso Ciência da Computação e sou estagiária no setor de compras da MTEC. Dedico meus estudos diários para me tornar uma desenvolvedora Full Stack, buscando sempre transformar ideias em código e aprender novas ferramentas para criar soluções completas.
+Me chamo Isabela, tenho 21 anos, curso Ciência da Computação e sou estagiária no setor de compras da MTEC. Dedico meus estudos diários para me tornar uma desenvolvedora Full Stack, buscando sempre transformar ideias em código e aprender novas ferramentas para criar soluções completas.
 
 ---
 
@@ -39,7 +39,7 @@ Me chamo Isabela, tenho 21 anos e sou apaixonada por inovar usando a tecnologia.
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabelaloliveira&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabelaloliveira&theme=omni&layout=compact"/>
+
 
 </div>
 
